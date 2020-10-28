@@ -1,4 +1,4 @@
-module github.com/personnummer/go/v3
+module github.com/jirenius/personnummer/v3
 
 go 1.13
 
